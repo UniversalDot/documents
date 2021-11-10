@@ -1,1 +1,49 @@
-<mxfile host="app.diagrams.net" modified="2021-11-10T11:08:34.145Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" version="15.7.0" etag="xjSU7UMXjsqH84OQo5WU" type="github"><diagram id="O8b5FWPU7oNjnTz_ODQA">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-11-10T11:12:11.813Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="gRGqpHOlf8TWySp1O4Od" version="15.7.0" type="github">
+  <diagram id="O8b5FWPU7oNjnTz_ODQA" name="Page-1">
+    <mxGraphModel dx="1833" dy="472" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="oKAUbXmEOzsTch2jICVD-1" value="Runtime (wasm)&lt;br&gt;(universal-dot-node)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-310" y="370" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="oKAUbXmEOzsTch2jICVD-2" value="Pallets" style="rounded=0;whiteSpace=wrap;html=1;horizontal=0;" vertex="1" parent="1">
+          <mxGeometry x="-310" y="280" width="20" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oKAUbXmEOzsTch2jICVD-3" value="Pallets" style="rounded=0;whiteSpace=wrap;html=1;horizontal=0;" vertex="1" parent="1">
+          <mxGeometry x="-270" y="280" width="20" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oKAUbXmEOzsTch2jICVD-4" value="Pallets" style="rounded=0;whiteSpace=wrap;html=1;horizontal=0;" vertex="1" parent="1">
+          <mxGeometry x="-235" y="280" width="20" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oKAUbXmEOzsTch2jICVD-5" value="Pallets" style="rounded=0;whiteSpace=wrap;html=1;horizontal=0;" vertex="1" parent="1">
+          <mxGeometry x="-190" y="280" width="20" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oKAUbXmEOzsTch2jICVD-6" value="FRAME(Rust)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-310" y="340" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oKAUbXmEOzsTch2jICVD-7" value="RPC" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="oKAUbXmEOzsTch2jICVD-8" target="oKAUbXmEOzsTch2jICVD-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oKAUbXmEOzsTch2jICVD-8" value="App&lt;br&gt;(universal-dot-front-end)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="370" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="oKAUbXmEOzsTch2jICVD-9" value="React" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="340" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oKAUbXmEOzsTch2jICVD-10" value="Modules" style="rounded=0;whiteSpace=wrap;html=1;horizontal=0;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="280" width="20" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oKAUbXmEOzsTch2jICVD-11" value="Modules" style="rounded=0;whiteSpace=wrap;html=1;horizontal=0;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="280" width="20" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oKAUbXmEOzsTch2jICVD-12" value="Modules" style="rounded=0;whiteSpace=wrap;html=1;horizontal=0;" vertex="1" parent="1">
+          <mxGeometry x="15" y="280" width="20" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oKAUbXmEOzsTch2jICVD-13" value="Modules" style="rounded=0;whiteSpace=wrap;html=1;horizontal=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="280" width="20" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
