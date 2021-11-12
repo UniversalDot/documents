@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-11T15:41:01.008Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="13BnZA-d9EIW2tHOf1Ul" version="15.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-12T12:28:07.962Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="LJJLIot5UpcZgg76_f4a" version="15.7.3" type="github">
   <diagram id="O8b5FWPU7oNjnTz_ODQA" name="Page-1">
-    <mxGraphModel dx="4077" dy="1140" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3737" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -242,8 +242,17 @@
         <mxCell id="jj_0Ua6_e8Kop6F5eGgL-63" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-117.5" y="940" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="oEam6k8rwuXwo4SsDj-F-2" value="&lt;h1&gt;RPC API&lt;/h1&gt;&lt;p&gt;https://polkadot.js.org/docs/substrate/rpc&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="oEam6k8rwuXwo4SsDj-F-2" value="&lt;h1&gt;RPC API&lt;/h1&gt;&lt;p&gt;https://polkadot.js.org/docs/substrate/rpc&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-555" y="250" width="280" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="z3PIlL8AVYbUF4R5cEen-1" value="IPFS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1525" y="230" width="340" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z3PIlL8AVYbUF4R5cEen-2" value="Substrate" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1525" y="165" width="340" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z3PIlL8AVYbUF4R5cEen-3" value="React" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1525" y="100" width="340" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
