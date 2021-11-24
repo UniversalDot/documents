@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-11-24T11:36:56.955Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36" etag="IQzUw8mI_vTMbjrjvKAG" version="15.8.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-24T16:54:00.305Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36" etag="UnROeVWz3Xu0wX6wc9Zy" version="15.8.4" type="github">
   <diagram id="O8b5FWPU7oNjnTz_ODQA" name="Page-1">
     <mxGraphModel dx="3126" dy="684" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="jj_0Ua6_e8Kop6F5eGgL-1" value="Permissions" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1230" y="620" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1450" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jj_0Ua6_e8Kop6F5eGgL-2" value="has" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=diamondThin;endFill=1;sketch=0;verticalAlign=top;" parent="1" source="jj_0Ua6_e8Kop6F5eGgL-4" target="jj_0Ua6_e8Kop6F5eGgL-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -14,21 +14,21 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jj_0Ua6_e8Kop6F5eGgL-4" value="Profile" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1230" y="470" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1450" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jj_0Ua6_e8Kop6F5eGgL-5" value="has" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=diamondThin;endFill=1;verticalAlign=top;" parent="1" source="jj_0Ua6_e8Kop6F5eGgL-6" target="jj_0Ua6_e8Kop6F5eGgL-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jj_0Ua6_e8Kop6F5eGgL-6" value="Decentralised Autonomous&lt;br&gt;Organization &lt;br&gt;(DAO)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-985" y="470" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1205" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jj_0Ua6_e8Kop6F5eGgL-7" value="Permissions" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-705" y="350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jj_0Ua6_e8Kop6F5eGgL-8" value="Tasks" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-985" y="620" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1205" y="340" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jj_0Ua6_e8Kop6F5eGgL-9" value="Profile" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
+        <mxCell id="jj_0Ua6_e8Kop6F5eGgL-9" value="Profile " style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
           <mxGeometry x="-1610" y="1160" width="120" height="196" as="geometry">
             <mxRectangle x="-1610" y="1160" width="130" height="60" as="alternateBounds" />
           </mxGeometry>
@@ -57,8 +57,8 @@
         <mxCell id="zfgPQKo1U085djnc2KgE-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="jj_0Ua6_e8Kop6F5eGgL-16" target="jj_0Ua6_e8Kop6F5eGgL-8" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-1355" y="700" />
-              <mxPoint x="-925" y="700" />
+              <mxPoint x="-1575" y="420" />
+              <mxPoint x="-1145" y="420" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -68,33 +68,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="jj_0Ua6_e8Kop6F5eGgL-16" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="-1370" y="470" width="30" height="60" as="geometry" />
+          <mxGeometry x="-1590" y="190" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jj_0Ua6_e8Kop6F5eGgL-17" value="Utils" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-705" y="420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jj_0Ua6_e8Kop6F5eGgL-18" value="Account" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
-          <mxGeometry x="-1350" y="820" width="120" height="170" as="geometry">
-            <mxRectangle x="30" y="2750" width="130" height="60" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="jj_0Ua6_e8Kop6F5eGgL-19" value="created:date" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="jj_0Ua6_e8Kop6F5eGgL-18" vertex="1">
-          <mxGeometry y="40" width="120" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="jj_0Ua6_e8Kop6F5eGgL-20" value="updated:date" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="jj_0Ua6_e8Kop6F5eGgL-18" vertex="1">
-          <mxGeometry y="66" width="120" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="jj_0Ua6_e8Kop6F5eGgL-21" value="reputation:u32" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="jj_0Ua6_e8Kop6F5eGgL-18" vertex="1">
-          <mxGeometry y="92" width="120" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="jj_0Ua6_e8Kop6F5eGgL-22" value="balance" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="jj_0Ua6_e8Kop6F5eGgL-18" vertex="1">
-          <mxGeometry y="118" width="120" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="jj_0Ua6_e8Kop6F5eGgL-23" value="reputation: u32" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="jj_0Ua6_e8Kop6F5eGgL-18" vertex="1">
-          <mxGeometry y="144" width="120" height="26" as="geometry" />
-        </mxCell>
         <mxCell id="jj_0Ua6_e8Kop6F5eGgL-24" value="DAO" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
-          <mxGeometry x="-1180" y="820" width="120" height="170" as="geometry">
+          <mxGeometry x="-1310" y="1160" width="120" height="170" as="geometry">
             <mxRectangle x="200" y="2750" width="130" height="60" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -114,7 +94,7 @@
           <mxGeometry y="144" width="120" height="26" as="geometry" />
         </mxCell>
         <mxCell id="jj_0Ua6_e8Kop6F5eGgL-30" value="Tasks" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
-          <mxGeometry x="-1150" y="1173" width="120" height="170" as="geometry">
+          <mxGeometry x="-1460" y="1160" width="120" height="170" as="geometry">
             <mxRectangle x="370" y="2750" width="130" height="60" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -134,7 +114,7 @@
           <mxGeometry y="144" width="120" height="26" as="geometry" />
         </mxCell>
         <mxCell id="jj_0Ua6_e8Kop6F5eGgL-36" value="Treasury" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
-          <mxGeometry x="-830" y="820" width="120" height="170" as="geometry">
+          <mxGeometry x="-1150" y="1160" width="120" height="170" as="geometry">
             <mxRectangle x="200" y="2750" width="130" height="60" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -219,8 +199,8 @@
         <mxCell id="jj_0Ua6_e8Kop6F5eGgL-63" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-117.5" y="940" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="FGcz2dUoChlX7dVaqIpa-2" value="&lt;h1&gt;Profile&lt;/h1&gt;&lt;p&gt;HashMap Profile&lt;/p&gt;&lt;p&gt;&amp;lt;Key: AccountID, value: profile&amp;gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;profile: {&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;white-space: pre&quot;&gt; &lt;/span&gt;owner:&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;white-space: pre&quot;&gt; &lt;/span&gt;balance:&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;white-space: pre&quot;&gt; &lt;/span&gt;interests:&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;white-space: pre&quot;&gt; &lt;/span&gt;reputation&lt;/p&gt;&lt;p&gt;}&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;white-space: pre&quot;&gt; &lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-1597" y="1580" width="230" height="260" as="geometry" />
+        <mxCell id="FGcz2dUoChlX7dVaqIpa-2" value="&lt;h1&gt;Profile Pallet&lt;/h1&gt;&lt;p&gt;HashMap Profile&amp;nbsp;&lt;span&gt;&amp;lt;Key: AccountID, value: profile&amp;gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;profile: {&lt;/p&gt;&lt;p&gt;&lt;span&gt; &lt;/span&gt;owner:&lt;/p&gt;&lt;p&gt;&lt;span&gt; &lt;/span&gt;balance:&lt;/p&gt;&lt;p&gt;&lt;span&gt; &lt;/span&gt;interests:&lt;/p&gt;&lt;p&gt;&lt;span&gt; &lt;/span&gt;reputation&lt;/p&gt;&lt;p&gt;}&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;RPC Methods:&amp;nbsp;&lt;/p&gt;&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; font-size: 13px ; line-height: normal ; font-family: &amp;#34;helvetica neue&amp;#34;&quot;&gt;create_profile(origin: OriginFor&amp;lt;T&amp;gt;, interests: Vec&amp;lt;u8&amp;gt;) -&amp;gt; DispatchResult&lt;/p&gt;&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; font-size: 13px ; line-height: normal ; font-family: &amp;#34;helvetica neue&amp;#34;&quot;&gt;update_profile((origin: OriginFor&amp;lt;T&amp;gt;, interests: Vec&amp;lt;u8&amp;gt;) &amp;gt; DispatchResult&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica neue&amp;#34; ; font-size: 13px&quot;&gt;delete_profile((origin: OriginFor&amp;lt;T&amp;gt;) &amp;gt; DispatchResult&lt;/span&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt; &lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-1610" y="1580" width="460" height="400" as="geometry" />
         </mxCell>
         <mxCell id="jHqQ8HdZ8Z5hqaNd9g9Q-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="jHqQ8HdZ8Z5hqaNd9g9Q-3" target="jHqQ8HdZ8Z5hqaNd9g9Q-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -284,14 +264,14 @@
         <mxCell id="jHqQ8HdZ8Z5hqaNd9g9Q-31" value="System" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-550" y="420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vJazfb_X2EtEHzuT2h-C-1" value="&lt;h1&gt;Task&lt;/h1&gt;&lt;p&gt;HashMap Task&lt;/p&gt;&lt;p&gt;&amp;lt;Key: hash, value: task&amp;gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;task: {&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;white-space: pre&quot;&gt; &lt;/span&gt;creator:&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;white-space: pre&quot;&gt; &lt;/span&gt;requirements:&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;white-space: pre&quot;&gt; &lt;/span&gt;budget:&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;white-space: pre&quot;&gt; &lt;/span&gt;state:&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;white-space: pre&quot;&gt; &lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;}&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;white-space: pre&quot;&gt; &lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-1600" y="1850" width="230" height="260" as="geometry" />
+        <mxCell id="vJazfb_X2EtEHzuT2h-C-1" value="&lt;h1&gt;Task Pallet&lt;/h1&gt;&lt;p&gt;HashMap Task&amp;nbsp;&lt;span&gt;&amp;lt;Key: hash, value: task&amp;gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;task: {&lt;/p&gt;&lt;p&gt;&lt;span&gt; &lt;/span&gt;creator:&lt;/p&gt;&lt;p&gt;&lt;span&gt; &lt;/span&gt;requirements:&lt;/p&gt;&lt;p&gt;&lt;span&gt; &lt;/span&gt;budget:&lt;/p&gt;&lt;p&gt;&lt;span&gt; &lt;/span&gt;state:&lt;/p&gt;&lt;p&gt;}&lt;/p&gt;&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; font-size: 13px ; line-height: normal ; font-family: &amp;#34;helvetica neue&amp;#34;&quot;&gt;RPC Methods:&lt;br&gt;create_task(origin: OriginFor&amp;lt;T&amp;gt;, requirements: Vec&amp;lt;u8&amp;gt;, budget: u32) -&amp;gt; DispatchResult&lt;/p&gt;&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; font-size: 13px ; line-height: normal ; font-family: &amp;#34;helvetica neue&amp;#34;&quot;&gt;start_task(origin: OriginFor&amp;lt;T&amp;gt;, task_id: T::Hash) -&amp;gt; DispatchResult&lt;span class=&quot;Apple-converted-space&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; font-size: 13px ; line-height: normal ; font-family: &amp;#34;helvetica neue&amp;#34;&quot;&gt;finish_task(origin: OriginFor&amp;lt;T&amp;gt;, task_id: T::Hash) -&amp;gt; DispatchResult&lt;span class=&quot;Apple-converted-space&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt; &lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-1620" y="1970" width="570" height="480" as="geometry" />
         </mxCell>
-        <mxCell id="vJazfb_X2EtEHzuT2h-C-2" value="&lt;h1&gt;Organization&lt;/h1&gt;&lt;p&gt;HashNMap Profile&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;white-space: pre&quot;&gt; &lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-1610" y="2100" width="230" height="260" as="geometry" />
+        <mxCell id="vJazfb_X2EtEHzuT2h-C-2" value="&lt;h1&gt;Organization&lt;/h1&gt;&lt;p&gt;HashNMap Profile&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;RPC Methods:&lt;/p&gt;&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; font-size: 13px ; line-height: normal ; font-family: &amp;#34;helvetica neue&amp;#34;&quot;&gt;create_organization(origin: OriginFor&amp;lt;T&amp;gt;, name: Vec&amp;lt;u8&amp;gt;) -&amp;gt; DispatchResult&lt;/p&gt;&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; font-size: 13px ; line-height: normal ; font-family: &amp;#34;helvetica neue&amp;#34;&quot;&gt;add_member(origin: OriginFor&amp;lt;T&amp;gt;, AccountID) -&amp;gt; DispatchResult&lt;/p&gt;&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; font-size: 13px ; line-height: normal ; font-family: &amp;#34;helvetica neue&amp;#34;&quot;&gt;remove_member(origin: OriginFor&amp;lt;T&amp;gt;, AccountID) -&amp;gt; DispatchResult&lt;/p&gt;&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; font-size: 13px ; line-height: normal ; font-family: &amp;#34;helvetica neue&amp;#34;&quot;&gt;add_task(origin: OriginFor&amp;lt;T&amp;gt;, AccountID) -&amp;gt; DispatchResult&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt; &lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-1620" y="2310" width="570" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="JhHjBiDKz6_hENq1scua-1" value="&lt;h1&gt;Task&lt;/h1&gt;&lt;p&gt;Task has an owner.&amp;nbsp;&lt;/p&gt;&lt;p&gt;When task is in state Created, owner is the account that Created the Task&lt;/p&gt;&lt;p&gt;When task is in state Progress, owner is the account that completes the Task&lt;/p&gt;&lt;p&gt;When task is Completed, Task is deleted&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;white-space: pre&quot;&gt; &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;white-space: pre&quot;&gt; &lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-1360" y="1860" width="230" height="260" as="geometry" />
+        <mxCell id="JhHjBiDKz6_hENq1scua-1" value="&lt;h1&gt;Task&lt;/h1&gt;&lt;p&gt;Task has an owner.&amp;nbsp;&lt;/p&gt;&lt;p&gt;When task is in state Created, owner is the account that Created the Task&lt;/p&gt;&lt;p&gt;When task is in state Progress, owner is the account that completes the Task&lt;/p&gt;&lt;p&gt;When task is Completed, Task is deleted&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;white-space: pre&quot;&gt; &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;white-space: pre&quot;&gt; &lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-790" y="1470" width="230" height="260" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
