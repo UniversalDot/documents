@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-14T13:16:01.185Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="umwJMNZOM_eR7pMahhzS" version="15.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-14T15:18:35.225Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="zKPPJcC4gv67wmllfa3H" version="15.9.6" type="github">
   <diagram id="O8b5FWPU7oNjnTz_ODQA" name="Page-1">
     <mxGraphModel dx="3126" dy="684" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -389,22 +389,22 @@
         <mxCell id="ajiw-LM-kxqLNzT4N0N_-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="TrnKfj7G5ok1o_zF0kOf-24" target="ajiw-LM-kxqLNzT4N0N_-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TrnKfj7G5ok1o_zF0kOf-24" value="Join Dao" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="TrnKfj7G5ok1o_zF0kOf-24" value="Join Organization" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1030" y="3430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ajiw-LM-kxqLNzT4N0N_-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ajiw-LM-kxqLNzT4N0N_-1" target="ajiw-LM-kxqLNzT4N0N_-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ajiw-LM-kxqLNzT4N0N_-1" value="Create DAO" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="ajiw-LM-kxqLNzT4N0N_-1" value="Create Organization" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1030" y="3150" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ajiw-LM-kxqLNzT4N0N_-5" value="Dissolve DAO" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="ajiw-LM-kxqLNzT4N0N_-5" value="Dissolve Organization" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1030" y="3260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ajiw-LM-kxqLNzT4N0N_-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ajiw-LM-kxqLNzT4N0N_-7" target="ajiw-LM-kxqLNzT4N0N_-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ajiw-LM-kxqLNzT4N0N_-7" value="See Dao Tasks" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="ajiw-LM-kxqLNzT4N0N_-7" value="See Organization Tasks" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-800" y="3430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ajiw-LM-kxqLNzT4N0N_-9" value="Create/Complete Tasks" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
