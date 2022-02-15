@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-15T14:37:24.037Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="K5tNJWpQ6IeYUleEForL" version="16.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-15T14:57:38.889Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="2QsB7I8AVY_-keNzJb5R" version="16.5.6" type="github">
   <diagram id="v5FJ3D41eFAgbxFI6TYL" name="Page-1">
-    <mxGraphModel dx="2940" dy="595" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2888" dy="570" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -202,7 +202,7 @@
         <mxCell id="9xDF0MSeqlQaIhTnO4S1-34" value="&lt;i&gt;&lt;b&gt;ML Tier&lt;/b&gt;&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-1082.34" y="780" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9xDF0MSeqlQaIhTnO4S1-37" value="&lt;h1&gt;ML Tier - Universal Recomender&lt;/h1&gt;&lt;p&gt;Task Module -&amp;nbsp;&lt;/p&gt;&lt;p&gt;Gets information from user Profile Interests and recommends tasks to Users based on those interests.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Vision Module:&amp;nbsp;&lt;/p&gt;&lt;p&gt;Suggests visions to users based on personal profiles and past activities (tasks, visions)&lt;/p&gt;&lt;p&gt;Org Module:&lt;/p&gt;&lt;p&gt;Suggest Organizations to users based on Profile, and past activities&lt;/p&gt;&lt;p&gt;https://github.com/grahamjenson/list_of_recommender_systems&amp;nbsp;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+        <mxCell id="9xDF0MSeqlQaIhTnO4S1-37" value="&lt;h1&gt;ML Tier&amp;nbsp;&lt;/h1&gt;&lt;p&gt;Task Module -&amp;nbsp;&lt;/p&gt;&lt;p&gt;Gets information from user Profile Interests and recommends tasks to Users based on those interests.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Vision Module:&amp;nbsp;&lt;/p&gt;&lt;p&gt;Suggests visions to users based on personal profiles and past activities (tasks, visions)&lt;/p&gt;&lt;p&gt;Org Module:&lt;/p&gt;&lt;p&gt;Suggest Organizations to users based on Profile, and past activities&lt;/p&gt;&lt;p&gt;https://github.com/grahamjenson/list_of_recommender_systems&amp;nbsp;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-700" y="800" width="390" height="310" as="geometry" />
         </mxCell>
         <mxCell id="9xDF0MSeqlQaIhTnO4S1-38" value="Recommender Systems (NLP/DL/ML)" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;align=center;labelPosition=center;verticalLabelPosition=top;verticalAlign=bottom;" parent="1" vertex="1">
