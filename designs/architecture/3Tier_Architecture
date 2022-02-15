@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-15T15:01:52.181Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="f4aK_MQ6TrI3-d14nsL4" version="16.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-15T15:03:20.461Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="mXEYAE74sY8Ym1nbUP-1" version="16.5.6" type="github">
   <diagram id="v5FJ3D41eFAgbxFI6TYL" name="Page-1">
     <mxGraphModel dx="2888" dy="570" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -364,7 +364,7 @@
           <mxGeometry x="-1071.96" y="1610" width="251.96" height="330" as="geometry" />
         </mxCell>
         <mxCell id="MTAPnx09DA6FKZFu8QRQ-1" value="&lt;h1&gt;Example REST API&lt;/h1&gt;&lt;p&gt;JSON&lt;/p&gt;&lt;p&gt;Profile {&lt;/p&gt;&lt;p&gt;&lt;span&gt; &lt;/span&gt;interests: coding, Java, ML&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt; &lt;/span&gt;reputation: 77&lt;br&gt;&lt;/p&gt;&lt;p&gt;}&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Task {&lt;/p&gt;&lt;p&gt;&lt;span&gt; &lt;/span&gt;title: Java Class&lt;/p&gt;&lt;p&gt;&lt;span&gt; &lt;/span&gt;description:&amp;nbsp;have a class called Economy that extends an abstract class Structure and the abstract class Structure implements an interface Basic&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt; &lt;/span&gt;budget: 100&lt;br&gt;&lt;/p&gt;&lt;p&gt;..&lt;/p&gt;&lt;p&gt;}&lt;/p&gt;&lt;p&gt;&lt;span&gt; &lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt; &lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-811.96" y="1610" width="251.96" height="330" as="geometry" />
+          <mxGeometry x="-811.96" y="1610" width="251.96" height="440" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
