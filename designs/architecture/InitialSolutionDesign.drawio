@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-28T15:07:43.432Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="SmFdtBmLQvx_qFPm9cPE" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-10T11:06:15.966Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="ob1gUmsdVJ6KzCzcxOAw" version="17.0.0" type="github">
   <diagram id="O8b5FWPU7oNjnTz_ODQA" name="Page-1">
-    <mxGraphModel dx="2888" dy="570" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3126" dy="684" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -463,6 +463,40 @@
         </mxCell>
         <mxCell id="Pq3HjBcqz3ct0pRhvVi4-2" value="&lt;h1&gt;Task&lt;/h1&gt;&lt;p&gt;Icons: host static images in frontend.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Icon: investigate if it makes sense to store on blockchain? or outside?&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Icons and files to be hosted in IPFS&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-1035" y="1970" width="170" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="ijeGVAH3YUMh2cvb-LU8-10" value="Promotes based on history" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ijeGVAH3YUMh2cvb-LU8-1" target="ijeGVAH3YUMh2cvb-LU8-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ijeGVAH3YUMh2cvb-LU8-1" value="Judgment Level 1" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-960" y="4260" width="200" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="ijeGVAH3YUMh2cvb-LU8-2" value="Judgment Level 2" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-960" y="4060" width="200" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="ijeGVAH3YUMh2cvb-LU8-3" value="Supreme Judgement" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-960" y="3900" width="200" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="ijeGVAH3YUMh2cvb-LU8-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ijeGVAH3YUMh2cvb-LU8-4" target="ijeGVAH3YUMh2cvb-LU8-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ijeGVAH3YUMh2cvb-LU8-6" value="Nominates" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ijeGVAH3YUMh2cvb-LU8-5">
+          <mxGeometry x="-0.2" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ijeGVAH3YUMh2cvb-LU8-4" value="Council" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-600" y="3900" width="200" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="ijeGVAH3YUMh2cvb-LU8-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ijeGVAH3YUMh2cvb-LU8-7" target="ijeGVAH3YUMh2cvb-LU8-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ijeGVAH3YUMh2cvb-LU8-9" value="Self-nominates" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ijeGVAH3YUMh2cvb-LU8-8">
+          <mxGeometry x="-0.15" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ijeGVAH3YUMh2cvb-LU8-7" value="Member" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-600" y="4260" width="200" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
