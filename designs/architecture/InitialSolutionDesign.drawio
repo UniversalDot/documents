@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-10T12:34:30.694Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="-vPu67ct9ohWN2OzTCAG" version="17.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-10T14:48:14.357Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="OqMfxRLSwSxor7MXUpY2" version="17.0.0" type="github">
   <diagram id="O8b5FWPU7oNjnTz_ODQA" name="Page-1">
     <mxGraphModel dx="3126" dy="684" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -464,7 +464,7 @@
         <mxCell id="Pq3HjBcqz3ct0pRhvVi4-2" value="&lt;h1&gt;Task&lt;/h1&gt;&lt;p&gt;Icons: host static images in frontend.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Icon: investigate if it makes sense to store on blockchain? or outside?&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Icons and files to be hosted in IPFS&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-1035" y="1970" width="170" height="320" as="geometry" />
         </mxCell>
-        <mxCell id="ijeGVAH3YUMh2cvb-LU8-10" value="Promotes members based on history" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ijeGVAH3YUMh2cvb-LU8-1" target="ijeGVAH3YUMh2cvb-LU8-14">
+        <mxCell id="ijeGVAH3YUMh2cvb-LU8-10" value="Internal promotion based on history" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ijeGVAH3YUMh2cvb-LU8-1" target="ijeGVAH3YUMh2cvb-LU8-14">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-860" y="4190" as="targetPoint" />
           </mxGeometry>
@@ -472,7 +472,7 @@
         <mxCell id="ijeGVAH3YUMh2cvb-LU8-1" value="Arbitration Tribunal&lt;br&gt;&amp;nbsp;Level 1" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-930" y="4285" width="140" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ijeGVAH3YUMh2cvb-LU8-12" value="Promotes members based on history" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ijeGVAH3YUMh2cvb-LU8-14" target="ijeGVAH3YUMh2cvb-LU8-15">
+        <mxCell id="ijeGVAH3YUMh2cvb-LU8-12" value="&amp;nbsp;Promotion by Council" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ijeGVAH3YUMh2cvb-LU8-14" target="ijeGVAH3YUMh2cvb-LU8-15">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-860" y="4060" as="sourcePoint" />
             <mxPoint x="-860" y="4100" as="targetPoint" />
