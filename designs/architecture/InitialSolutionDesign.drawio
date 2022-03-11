@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2022-03-11T14:33:37.328Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="AjLR6Vm7ftosnqhyiJRn" version="16.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-11T16:59:36.090Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="WPQ1DjzbAMQTJd2mvXax" version="16.5.3" type="github">
   <diagram id="O8b5FWPU7oNjnTz_ODQA" name="Page-1">
     <mxGraphModel dx="3126" dy="691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="zy_PEQrm0i64blbhuWEd-24" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="-180" y="4040" width="310" height="450" as="geometry" />
+        <mxCell id="zy_PEQrm0i64blbhuWEd-24" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-170" y="4030" width="310" height="450" as="geometry" />
         </mxCell>
-        <mxCell id="zy_PEQrm0i64blbhuWEd-22" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="-430" y="4040" width="250" height="450" as="geometry" />
+        <mxCell id="zy_PEQrm0i64blbhuWEd-22" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-480" y="4030" width="310" height="450" as="geometry" />
         </mxCell>
         <mxCell id="jj_0Ua6_e8Kop6F5eGgL-1" value="Permissions" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1450" y="340" width="120" height="60" as="geometry" />
@@ -584,8 +584,22 @@
         <mxCell id="zy_PEQrm0i64blbhuWEd-15" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#330000;" vertex="1" parent="1">
           <mxGeometry x="-117.5" y="4350" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zy_PEQrm0i64blbhuWEd-20" value="Select Next Arbitration Members" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="zy_PEQrm0i64blbhuWEd-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=1 2;" edge="1" parent="1" source="zy_PEQrm0i64blbhuWEd-20" target="zy_PEQrm0i64blbhuWEd-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="110" y="4435" />
+              <mxPoint x="110" y="4115" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zy_PEQrm0i64blbhuWEd-20" value="Select Next Arbitration Members" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="-147.5" y="4410" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zy_PEQrm0i64blbhuWEd-28" value="Arbitration Tribunal&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="-85" y="4030" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zy_PEQrm0i64blbhuWEd-29" value="Plaintiff" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="-407.5" y="4030" width="147.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
