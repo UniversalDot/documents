@@ -1,9 +1,15 @@
-<mxfile host="app.diagrams.net" modified="2022-03-11T14:25:52.209Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="XxqnsLvMP7CteMI3jkeD" version="16.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-11T14:31:47.184Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="7BznR52mSHZb79Q8FOke" version="16.5.3" type="github">
   <diagram id="O8b5FWPU7oNjnTz_ODQA" name="Page-1">
     <mxGraphModel dx="3126" dy="691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="zy_PEQrm0i64blbhuWEd-24" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="4040" width="250" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="zy_PEQrm0i64blbhuWEd-22" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-430" y="4040" width="250" height="450" as="geometry" />
+        </mxCell>
         <mxCell id="jj_0Ua6_e8Kop6F5eGgL-1" value="Permissions" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1450" y="340" width="120" height="60" as="geometry" />
         </mxCell>
@@ -516,7 +522,7 @@
         <mxCell id="zy_PEQrm0i64blbhuWEd-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zy_PEQrm0i64blbhuWEd-1" target="zy_PEQrm0i64blbhuWEd-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zy_PEQrm0i64blbhuWEd-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#330000;" vertex="1" parent="1">
+        <mxCell id="zy_PEQrm0i64blbhuWEd-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="-410" y="4120" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zy_PEQrm0i64blbhuWEd-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zy_PEQrm0i64blbhuWEd-2" target="zy_PEQrm0i64blbhuWEd-4">
@@ -541,18 +547,18 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zy_PEQrm0i64blbhuWEd-7" value="Review Evidence" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="-147.5" y="4220" width="100" height="50" as="geometry" />
+          <mxGeometry x="-165" y="4220" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="zy_PEQrm0i64blbhuWEd-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="zy_PEQrm0i64blbhuWEd-8" target="zy_PEQrm0i64blbhuWEd-10">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="50" y="4300" />
+              <mxPoint x="10" y="4300" />
               <mxPoint x="-385" y="4300" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="zy_PEQrm0i64blbhuWEd-8" value="Give Rullng" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry y="4220" width="100" height="50" as="geometry" />
+          <mxGeometry x="-40" y="4220" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="zy_PEQrm0i64blbhuWEd-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zy_PEQrm0i64blbhuWEd-9" target="zy_PEQrm0i64blbhuWEd-15">
           <mxGeometry relative="1" as="geometry" />
@@ -576,9 +582,9 @@
           <mxGeometry x="-320" y="4380" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="zy_PEQrm0i64blbhuWEd-15" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#330000;" vertex="1" parent="1">
-          <mxGeometry x="-165" y="4320" width="30" height="30" as="geometry" />
+          <mxGeometry x="-117.5" y="4320" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zy_PEQrm0i64blbhuWEd-20" value="Select Arbitration Members" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="zy_PEQrm0i64blbhuWEd-20" value="Select Next Arbitration Members" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="-147.5" y="4380" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
