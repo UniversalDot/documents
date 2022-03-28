@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-28T10:50:05.055Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.83 Safari/537.36" etag="ZsGh0anbPFZD2ocz6Zsh" version="17.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-28T10:52:35.002Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.83 Safari/537.36" etag="vSY7Roc9hb-wIYL277s2" version="17.2.4" type="github">
   <diagram id="1vc_cR2REffOlXkusepg" name="Page-1">
     <mxGraphModel dx="1141" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -82,7 +82,7 @@
             <mxPoint x="118" y="15" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qFK5dzPU55VRSauhpOOJ-18" value="&lt;h1&gt;Branching Rules&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;universal-master&lt;/b&gt; is long-term stable and used always for releasing new software.&lt;/li&gt;&lt;li&gt;&lt;b&gt;universal-develop&lt;/b&gt; is long-term stable and used for developing new features.&lt;/li&gt;&lt;li&gt;Features are developed on feat/name of feature branches.&amp;nbsp;&lt;/li&gt;&lt;li&gt;After the feature has been merged into universal-develop, its branch should be deleted.&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="qFK5dzPU55VRSauhpOOJ-18" value="&lt;h1&gt;Branching Rules&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;universal-master&lt;/b&gt; is long-term stable and used always for releasing new software.&lt;/li&gt;&lt;li&gt;&lt;b&gt;universal-develop&lt;/b&gt; is long-term stable and used for developing new features.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Feature&lt;/b&gt; branches&lt;/li&gt;&lt;ul&gt;&lt;li&gt;Features are developed on &lt;b&gt;feat&lt;/b&gt;/&lt;i&gt;name-of-feature&lt;/i&gt; branches.&amp;nbsp;&lt;/li&gt;&lt;li&gt;After the feature has been merged into universal-develop, its branch should be deleted.&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;Releases are made from universal-master.&lt;/li&gt;&lt;li&gt;Semantic versioning&amp;nbsp; &amp;lt;&lt;i&gt;major&lt;/i&gt;.&lt;i&gt;minor&lt;/i&gt;.&lt;i&gt;patch&lt;/i&gt;&amp;gt; is applied to releases&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="430" y="190" width="270" height="330" as="geometry" />
         </mxCell>
       </root>
