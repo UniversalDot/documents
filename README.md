@@ -14,7 +14,7 @@ The documentation is split in several sections:
 UniversalDot is recipient of the technical grant from Web3 Foundation. 
 
 
-## Architecture design
+## Access
 
 Draw.io diagrams can be accessed via: https://app.diagrams.net/?mode=github
 
