@@ -1,23 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2022-05-02T14:09:04.007Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="yol7LfZ3xFcETtCgANV_" version="17.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-03T10:25:19.412Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="758sy7JeS7ZMZtUt6JEW" version="17.5.0" type="github">
   <diagram id="PWz0Cm15_6Ju_F6uPyTq" name="Page-1">
-    <mxGraphModel dx="1426" dy="684" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="jVakzNksEXZiFuCBjzgW-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="210" width="220" height="140" as="geometry" />
+        <mxCell id="GisYpRV7avzfYeUy0QzY-2" value="RPC" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="jVakzNksEXZiFuCBjzgW-1" target="GisYpRV7avzfYeUy0QzY-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jVakzNksEXZiFuCBjzgW-2" value="Local" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="170" y="180" width="60" height="30" as="geometry" />
+        <mxCell id="GisYpRV7avzfYeUy0QzY-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jVakzNksEXZiFuCBjzgW-1" target="jVakzNksEXZiFuCBjzgW-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jVakzNksEXZiFuCBjzgW-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="210" width="220" height="140" as="geometry" />
+        <mxCell id="jVakzNksEXZiFuCBjzgW-1" value="Server" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="130" y="70" width="220" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="jVakzNksEXZiFuCBjzgW-4" value="Network" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="610" y="180" width="60" height="30" as="geometry" />
+        <mxCell id="jVakzNksEXZiFuCBjzgW-2" value="Web App" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="210" y="40" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jVakzNksEXZiFuCBjzgW-5" value="IPFS Gateway" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="250" width="120" height="60" as="geometry" />
+        <mxCell id="GisYpRV7avzfYeUy0QzY-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jVakzNksEXZiFuCBjzgW-5" target="GisYpRV7avzfYeUy0QzY-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="514.94" y="291.05999999999995" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jVakzNksEXZiFuCBjzgW-5" value="IPFS Gateway" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="180" y="280" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GisYpRV7avzfYeUy0QzY-1" value="Node" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="465" y="110" width="125" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GisYpRV7avzfYeUy0QzY-3" value="Blockchain Storage" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="465" y="150" width="125" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GisYpRV7avzfYeUy0QzY-6" value="IPFS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="465" y="260" width="125" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
