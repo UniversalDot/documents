@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-03T12:54:53.450Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="B1qX2g3_uNJuqazrglff" version="17.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-03T14:42:27.183Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="Jhl6CBw18Bdn_TQaSdAt" version="17.5.0" type="github">
   <diagram id="PWz0Cm15_6Ju_F6uPyTq" name="Page-1">
     <mxGraphModel dx="1426" dy="684" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -30,8 +30,8 @@
         <mxCell id="GisYpRV7avzfYeUy0QzY-6" value="IPFS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="250" width="145" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="GisYpRV7avzfYeUy0QzY-7" value="&lt;h1&gt;Gateways&lt;/h1&gt;&lt;p&gt;https://ipfs.github.io/public-gateway-checker/&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="790" y="80" width="190" height="120" as="geometry" />
+        <mxCell id="GisYpRV7avzfYeUy0QzY-7" value="&lt;h1&gt;Gateways&lt;/h1&gt;&lt;p style=&quot;box-sizing: border-box ; color: rgb(63 , 66 , 70) ; font-family: &amp;#34;manrope&amp;#34; , sans-serif , &amp;#34;apple color emoji&amp;#34; , &amp;#34;segoe ui emoji&amp;#34; , &amp;#34;segoe ui symbol&amp;#34; ; font-size: 14px&quot;&gt;There are 2 ways to upload a file to IPFS:&lt;/p&gt;&lt;ul style=&quot;box-sizing: border-box ; color: rgb(63 , 66 , 70) ; font-family: &amp;#34;manrope&amp;#34; , sans-serif , &amp;#34;apple color emoji&amp;#34; , &amp;#34;segoe ui emoji&amp;#34; , &amp;#34;segoe ui symbol&amp;#34; ; font-size: 14px&quot;&gt;&lt;li style=&quot;box-sizing: border-box ; overflow-wrap: break-word&quot;&gt;using a local IPFS node&lt;/li&gt;&lt;li style=&quot;box-sizing: border-box ; overflow-wrap: break-word&quot;&gt;using a remote&amp;nbsp;&lt;a href=&quot;https://docs.ipfs.io/concepts/ipfs-gateway/#authenticated-gateways&quot; target=&quot;_blank&quot; style=&quot;box-sizing: border-box&quot;&gt;IPFS W3Authed Gateway&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;https://ipfs.github.io/public-gateway-checker/&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="790" y="80" width="300" height="280" as="geometry" />
         </mxCell>
         <mxCell id="GisYpRV7avzfYeUy0QzY-8" value="IPFS Content CID" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="90" width="145" height="20" as="geometry" />
