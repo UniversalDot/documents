@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-18T11:09:01.560Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="cxtsvbzT6xDSknUFJEE_" version="18.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-18T11:18:45.907Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="UD8KTOQlLEt_yj-Cx4rc" version="18.0.3" type="github">
   <diagram id="XYSDUHxa8FnNzhFP22NK" name="Page-1">
     <mxGraphModel dx="2260" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -107,7 +107,7 @@
           <mxGeometry x="-490" y="840" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xSVX6aapulrCaZrCg8h8-15" value="&lt;h1&gt;Substrate&lt;/h1&gt;&lt;p&gt;The Substrate client is an application that runs a Substrate-based blockchain node. It consists of several components that include, but are not limited to, the following:&amp;nbsp;&lt;/p&gt;&lt;p&gt;Storage: used to persist the evolving state of a Substrate blockchain. The blockchain network allows participants to reach trustless consensus about the state of storage. Substrate ships with a simple and highly efficient key-value storage mechanism.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Runtime: the logic that defines how blocks are processed, including state transition logic. In Substrate, runtime code is compiled to Wasm and becomes part of the blockchain&#39;s storage state. This enables one of the defining features of a Substrate-based blockchain: forkless runtime upgrades. Substrate clients may also include a &quot;native runtime&quot; that is compiled for the same platform as the client itself (as opposed to Wasm). The component of the client that dispatches calls to the runtime is known as the executor, whose role is to select between the native code and interpreted Wasm. Although the native runtime may offer a performance advantage, the executor will select to interpret the Wasm runtime if it implements a newer version.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Peer-to-peer network: the capabilities that allow the client to communicate with other network participants. Substrate uses the Rust implementation of the libp2p network stack to achieve this.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Consensus: the logic that allows network participants to agree on the state of the blockchain. Substrate makes it possible to supply custom consensus engines and also ships with several consensus mechanisms that have been built on top of Web3 Foundation research.&lt;/p&gt;&lt;p&gt;RPC (remote procedure call): the capabilities that allow blockchain users to interact with the network. Substrate provides HTTP and WebSocket RPC servers.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Telemetry: client metrics that are exposed by the embedded Prometheus server.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="-790" y="1120" width="430" height="570" as="geometry" />
+          <mxGeometry x="120" y="700" width="430" height="570" as="geometry" />
         </mxCell>
         <mxCell id="xSVX6aapulrCaZrCg8h8-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-260" y="730" width="310" height="180" as="geometry" />
@@ -127,11 +127,44 @@
         <mxCell id="xSVX6aapulrCaZrCg8h8-19" value="WebSocket :9944" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="xSVX6aapulrCaZrCg8h8-12" target="xSVX6aapulrCaZrCg8h8-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xSVX6aapulrCaZrCg8h8-23" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-260" y="1000" width="310" height="180" as="geometry" />
+        <mxCell id="xSVX6aapulrCaZrCg8h8-25" value="VPC Linux 20.04" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-160.62" y="960" width="98.75" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xSVX6aapulrCaZrCg8h8-24" value="Tensorflow" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-140" y="970" width="60" height="30" as="geometry" />
+        <mxCell id="xSVX6aapulrCaZrCg8h8-26" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-260" y="990" width="310" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="xSVX6aapulrCaZrCg8h8-27" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#DF8C42;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam2.linux;" vertex="1" parent="1">
+          <mxGeometry x="20" y="990" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xSVX6aapulrCaZrCg8h8-28" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-252.5" y="1030" width="280" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="xSVX6aapulrCaZrCg8h8-29" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Docker.svg;" vertex="1" parent="1">
+          <mxGeometry x="-2.5" y="1030" width="30" height="24.6" as="geometry" />
+        </mxCell>
+        <mxCell id="xSVX6aapulrCaZrCg8h8-30" value="Tensorflow Servable" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-242.5" y="1085" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xSVX6aapulrCaZrCg8h8-31" value="Loader &lt;br&gt;(Session Bundle)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-242.5" y="1130" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xSVX6aapulrCaZrCg8h8-32" value="Loader &lt;br&gt;(Session Bundle)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-102.5" y="1130" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xSVX6aapulrCaZrCg8h8-33" value="Dynamic Manager" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-242.5" y="1040" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xSVX6aapulrCaZrCg8h8-34" value="ServableHandle&lt;br&gt;(Session Bundle)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-102.5" y="1080" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xSVX6aapulrCaZrCg8h8-35" value="Tensorflow Serving" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-166.56" y="1003" width="108.13" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xSVX6aapulrCaZrCg8h8-37" value="RPC" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="xSVX6aapulrCaZrCg8h8-36" target="xSVX6aapulrCaZrCg8h8-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xSVX6aapulrCaZrCg8h8-36" value="Tensorflow-lib" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-245" y="820" width="80" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
