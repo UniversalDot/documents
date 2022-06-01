@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-30T12:51:32.598Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="a0wt_ZgmnQZF81xmii0P" version="18.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-01T10:08:34.168Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="51ssvfT3sr9r1RkNIYsa" version="18.1.3" type="github">
   <diagram id="jJaBQTyBDUhV9YVnCVPJ" name="Page-1">
     <mxGraphModel dx="1423" dy="684" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -48,7 +48,7 @@
           <mxGeometry x="605.62" y="270" width="98.75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Sa7abBf8-B4ZEbGXJUth-16" value="&lt;h1&gt;REST API&amp;nbsp;&lt;/h1&gt;Documentation: https://www.tensorflow.org/tfx/serving/api_rest&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Example &lt;b&gt;Request&lt;/b&gt;:&lt;/div&gt;&lt;div&gt;GET http://host:port/v1/models/${MODEL_NAME}[/versions/${VERSION}|/labels/${LABEL}]&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Example &lt;b&gt;Response&lt;/b&gt;:&lt;/div&gt;&lt;div&gt;{ &quot;result&quot;:&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;[ &amp;lt;value1&amp;gt;, &amp;lt;value2&amp;gt;, &amp;lt;value3&amp;gt;, ...]&amp;nbsp;&lt;/div&gt;&lt;div&gt;}&lt;br&gt;&lt;/div&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="210" y="680" width="510" height="190" as="geometry" />
+          <mxGeometry x="210" y="760" width="510" height="190" as="geometry" />
         </mxCell>
         <mxCell id="Sa7abBf8-B4ZEbGXJUth-17" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/unicons-line-vol-5/24/react-128.png" parent="1" vertex="1">
           <mxGeometry x="757" y="300" width="43" height="43" as="geometry" />
@@ -86,19 +86,14 @@
         <mxCell id="Sa7abBf8-B4ZEbGXJUth-29" value="..." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="657" y="410" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jX-qM-ruEMWtt13yXe6C-1" value="Tensorflow-model-server" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jX-qM-ruEMWtt13yXe6C-1" value="Saved Models" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="111.88" y="520" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="jX-qM-ruEMWtt13yXe6C-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="jX-qM-ruEMWtt13yXe6C-2" target="Sa7abBf8-B4ZEbGXJUth-3">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="133" y="600" />
-              <mxPoint x="251" y="600" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="jX-qM-ruEMWtt13yXe6C-2" value="Saved Model&amp;nbsp;&lt;br&gt;GIT" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+        <mxCell id="jX-qM-ruEMWtt13yXe6C-2" value="Saved Model&amp;nbsp;&lt;br&gt;GIT" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
           <mxGeometry x="102.5" y="610" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8B0uCuFz0-IsiGkV0sNn-1" value="saved_model_cli" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="520" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
