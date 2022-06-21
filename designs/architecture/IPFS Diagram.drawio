@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-21T13:35:49.605Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="0s8P-O0ohVqygaWrIeXa" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-21T14:25:05.187Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="qU3ux1XH2aNIPRanDiz1" version="20.0.1" type="github">
   <diagram id="PWz0Cm15_6Ju_F6uPyTq" name="Page-1">
-    <mxGraphModel dx="2629" dy="855" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2524" dy="805" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -43,7 +43,7 @@
           <mxGeometry x="-710" y="730" width="310" height="180" as="geometry" />
         </mxCell>
         <mxCell id="K2bOwGQRSZ3-CSx8ll-e-2" value="Substrate" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-590" y="700" width="60" height="30" as="geometry" />
+          <mxGeometry x="-710" y="710" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="K2bOwGQRSZ3-CSx8ll-e-3" value="Storage" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-700" y="840" width="110" height="60" as="geometry" />
@@ -70,7 +70,7 @@
           <mxGeometry x="-260" y="730" width="310" height="180" as="geometry" />
         </mxCell>
         <mxCell id="K2bOwGQRSZ3-CSx8ll-e-11" value="dApp Front-end" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-135" y="700" width="60" height="30" as="geometry" />
+          <mxGeometry x="-265" y="710" width="105" height="30" as="geometry" />
         </mxCell>
         <mxCell id="K2bOwGQRSZ3-CSx8ll-e-12" value="Substrate-lib" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-245" y="740" width="80" height="60" as="geometry" />
@@ -85,16 +85,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="K2bOwGQRSZ3-CSx8ll-e-16" value="VPC Linux 20.04" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-130.62" y="1020" width="98.75" height="30" as="geometry" />
+          <mxGeometry x="-18.75" y="640" width="98.75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="K2bOwGQRSZ3-CSx8ll-e-18" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#DF8C42;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam2.linux;" vertex="1" parent="1">
           <mxGeometry x="40" y="680" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="K2bOwGQRSZ3-CSx8ll-e-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-222.5" y="1090" width="280" height="150" as="geometry" />
+          <mxGeometry x="-222.5" y="1080" width="280" height="150" as="geometry" />
         </mxCell>
         <mxCell id="K2bOwGQRSZ3-CSx8ll-e-20" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Docker.svg;" vertex="1" parent="1">
-          <mxGeometry x="27.5" y="1090" width="30" height="24.6" as="geometry" />
+          <mxGeometry x="27.5" y="1080" width="30" height="24.6" as="geometry" />
         </mxCell>
         <mxCell id="K2bOwGQRSZ3-CSx8ll-e-21" value="Tensorflow Servable" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-212.5" y="1145" width="100" height="40" as="geometry" />
@@ -112,28 +112,23 @@
           <mxGeometry x="-72.5" y="1140" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="K2bOwGQRSZ3-CSx8ll-e-26" value="Tensorflow Serving" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-136.56" y="1063" width="108.13" height="30" as="geometry" />
+          <mxGeometry x="-222.5" y="1060" width="108.13" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="K2bOwGQRSZ3-CSx8ll-e-27" value="API:&lt;br&gt;&amp;nbsp;HOST:8501/v1/models/model" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="K2bOwGQRSZ3-CSx8ll-e-28" target="K2bOwGQRSZ3-CSx8ll-e-19">
+        <mxCell id="K2bOwGQRSZ3-CSx8ll-e-27" value="API:@host:8501/v1/models/model" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="K2bOwGQRSZ3-CSx8ll-e-28" target="K2bOwGQRSZ3-CSx8ll-e-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="K2bOwGQRSZ3-CSx8ll-e-28" value="Tensorflow-lib" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-52.5" y="820" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="K2bOwGQRSZ3-CSx8ll-e-29" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-705" y="1080" width="125" height="150" as="geometry" />
-        </mxCell>
         <mxCell id="K2bOwGQRSZ3-CSx8ll-e-30" value="IPFS Node" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-698.13" y="1050" width="108.13" height="30" as="geometry" />
+          <mxGeometry x="-733.13" y="1060" width="108.13" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="K2bOwGQRSZ3-CSx8ll-e-31" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Docker.svg;" vertex="1" parent="1">
-          <mxGeometry x="-270" y="1093" width="30" height="24.6" as="geometry" />
-        </mxCell>
-        <mxCell id="K2bOwGQRSZ3-CSx8ll-e-32" value="API:&lt;br&gt;HOST:5001/api/v0/swarm/peers" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="K2bOwGQRSZ3-CSx8ll-e-33" target="K2bOwGQRSZ3-CSx8ll-e-29">
+        <mxCell id="K2bOwGQRSZ3-CSx8ll-e-32" value="API:@host:5001" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="K2bOwGQRSZ3-CSx8ll-e-33" target="K2bOwGQRSZ3-CSx8ll-e-41">
           <mxGeometry x="0.032" y="-10" relative="1" as="geometry">
+            <mxPoint x="-645" y="1080" as="targetPoint" />
             <Array as="points">
               <mxPoint x="-205" y="970" />
-              <mxPoint x="-645" y="970" />
+              <mxPoint x="-615" y="970" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
@@ -154,22 +149,30 @@
           <mxGeometry x="-302.5" y="400" width="190" height="120" as="geometry" />
         </mxCell>
         <mxCell id="K2bOwGQRSZ3-CSx8ll-e-38" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-535" y="1080" width="125" height="150" as="geometry" />
+          <mxGeometry x="-450" y="1080" width="190" height="150" as="geometry" />
         </mxCell>
         <mxCell id="K2bOwGQRSZ3-CSx8ll-e-39" value="IPFS Cluster" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-526.56" y="1050" width="108.13" height="30" as="geometry" />
+          <mxGeometry x="-469.99999999999994" y="1060" width="108.13" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="K2bOwGQRSZ3-CSx8ll-e-40" value="API:&lt;br&gt;HOST:5001/api/v0/swarm/peers" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="K2bOwGQRSZ3-CSx8ll-e-39">
+        <mxCell id="K2bOwGQRSZ3-CSx8ll-e-40" value="API:@host:9094" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="K2bOwGQRSZ3-CSx8ll-e-33" target="K2bOwGQRSZ3-CSx8ll-e-38">
           <mxGeometry x="0.032" y="-10" relative="1" as="geometry">
-            <mxPoint x="-194.9599999999998" y="900" as="sourcePoint" />
-            <mxPoint x="-634.96" y="1090" as="targetPoint" />
+            <mxPoint x="-164.9999999999998" y="875" as="sourcePoint" />
+            <mxPoint x="-442.04" y="1055" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-195" y="1030" />
-              <mxPoint x="-470" y="1030" />
-              <mxPoint x="-470" y="1080" />
+              <mxPoint x="-185" y="1020" />
+              <mxPoint x="-355" y="1020" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="K2bOwGQRSZ3-CSx8ll-e-31" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Docker.svg;" vertex="1" parent="1">
+          <mxGeometry x="-295" y="1080" width="30" height="24.6" as="geometry" />
+        </mxCell>
+        <mxCell id="K2bOwGQRSZ3-CSx8ll-e-41" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-710" y="1080" width="190" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="K2bOwGQRSZ3-CSx8ll-e-42" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Docker.svg;" vertex="1" parent="1">
+          <mxGeometry x="-555" y="1080" width="30" height="24.6" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
