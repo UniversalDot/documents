@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-21T13:29:19.051Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="4Fk4YZV8MQ4_4PvqmsZ8" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-21T13:35:49.605Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="0s8P-O0ohVqygaWrIeXa" version="20.0.1" type="github">
   <diagram id="PWz0Cm15_6Ju_F6uPyTq" name="Page-1">
-    <mxGraphModel dx="2747" dy="912" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2629" dy="855" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -123,18 +123,19 @@
         <mxCell id="K2bOwGQRSZ3-CSx8ll-e-29" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-705" y="1080" width="125" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="K2bOwGQRSZ3-CSx8ll-e-30" value="IPFS Storage" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-688.13" y="1060" width="108.13" height="30" as="geometry" />
+        <mxCell id="K2bOwGQRSZ3-CSx8ll-e-30" value="IPFS Node" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-698.13" y="1050" width="108.13" height="30" as="geometry" />
         </mxCell>
         <mxCell id="K2bOwGQRSZ3-CSx8ll-e-31" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Docker.svg;" vertex="1" parent="1">
           <mxGeometry x="-270" y="1093" width="30" height="24.6" as="geometry" />
         </mxCell>
         <mxCell id="K2bOwGQRSZ3-CSx8ll-e-32" value="API:&lt;br&gt;HOST:5001/api/v0/swarm/peers" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="K2bOwGQRSZ3-CSx8ll-e-33" target="K2bOwGQRSZ3-CSx8ll-e-29">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="0.032" y="-10" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-205" y="1020" />
-              <mxPoint x="-645" y="1020" />
+              <mxPoint x="-205" y="970" />
+              <mxPoint x="-645" y="970" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="K2bOwGQRSZ3-CSx8ll-e-33" value="IPFS lib" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -151,6 +152,24 @@
         </mxCell>
         <mxCell id="K2bOwGQRSZ3-CSx8ll-e-37" value="&lt;h1&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Contains&lt;/span&gt;&lt;/h1&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;IPFS Node&lt;/span&gt;&lt;/div&gt;&lt;div&gt;dApp front-end&lt;/div&gt;&lt;div&gt;(Connects to Full Node via REST)&lt;/div&gt;&lt;h1&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-302.5" y="400" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="K2bOwGQRSZ3-CSx8ll-e-38" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-535" y="1080" width="125" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="K2bOwGQRSZ3-CSx8ll-e-39" value="IPFS Cluster" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-526.56" y="1050" width="108.13" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="K2bOwGQRSZ3-CSx8ll-e-40" value="API:&lt;br&gt;HOST:5001/api/v0/swarm/peers" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="K2bOwGQRSZ3-CSx8ll-e-39">
+          <mxGeometry x="0.032" y="-10" relative="1" as="geometry">
+            <mxPoint x="-194.9599999999998" y="900" as="sourcePoint" />
+            <mxPoint x="-634.96" y="1090" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-195" y="1030" />
+              <mxPoint x="-470" y="1030" />
+              <mxPoint x="-470" y="1080" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
