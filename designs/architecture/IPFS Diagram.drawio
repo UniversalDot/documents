@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-26T09:00:51.784Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="A4t2QsY6EUcsT-WQPFvT" version="20.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-26T10:19:25.378Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="uMFYwVhf9CxKpxyQEz22" version="20.2.8" type="github">
   <diagram id="PWz0Cm15_6Ju_F6uPyTq" name="Page-1">
-    <mxGraphModel dx="2205" dy="651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2348" dy="720" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -284,36 +284,72 @@
         <mxCell id="-kfD3O_Qcrp65oQM_JlS-24" value="Full Node" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="610.63" y="740" width="98.75" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vQvVCXFudkej5gtyNIv1-7" value="Connect()" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.089;exitDx=0;exitDy=0;entryX=-0.214;entryY=0.092;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="1" source="vQvVCXFudkej5gtyNIv1-1" target="vQvVCXFudkej5gtyNIv1-2">
+        <mxCell id="vQvVCXFudkej5gtyNIv1-9" value="get file(cid)" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vQvVCXFudkej5gtyNIv1-1" target="vQvVCXFudkej5gtyNIv1-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vQvVCXFudkej5gtyNIv1-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-605" y="1610" width="10" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="vQvVCXFudkej5gtyNIv1-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="1610" width="10" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="vQvVCXFudkej5gtyNIv1-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-410" y="1610" width="10" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="vQvVCXFudkej5gtyNIv1-4" value="Front-end" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-625" y="1580" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vQvVCXFudkej5gtyNIv1-5" value="IPFS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-245" y="1580" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vQvVCXFudkej5gtyNIv1-6" value="Substrate Node" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-457.5" y="1580" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vQvVCXFudkej5gtyNIv1-10" value="&lt;h1&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Data Flow&lt;/span&gt;&lt;/h1&gt;&lt;h1&gt;&lt;span style=&quot;background-color: initial; font-size: 12px; font-weight: normal;&quot;&gt;Data is stored in IPFS.&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial; font-size: 12px; font-weight: normal;&quot;&gt;Substrate is used to manage access to this data. For example, Only the creator of a vision will have access to write,update, modify his Vison. Everyone else will get only read access.&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="1600" width="330" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="vQvVCXFudkej5gtyNIv1-11" value="return file(cid)" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.214;entryY=0.626;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.012;exitY=0.62;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="vQvVCXFudkej5gtyNIv1-2" target="vQvVCXFudkej5gtyNIv1-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-580" y="1785" as="sourcePoint" />
+            <mxPoint x="-390" y="1785" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vQvVCXFudkej5gtyNIv1-12" value="store file(file)" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="vQvVCXFudkej5gtyNIv1-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-580" y="1785" as="sourcePoint" />
+            <mxPoint x="-410" y="1858" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vQvVCXFudkej5gtyNIv1-14" value="GET /ipfs/{cid}[/{path}][?{params}]" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.107;entryY=0.545;entryDx=0;entryDy=0;exitX=0.976;exitY=0.545;exitDx=0;exitDy=0;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="1" source="vQvVCXFudkej5gtyNIv1-3" target="vQvVCXFudkej5gtyNIv1-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-580" y="1785" as="sourcePoint" />
+            <mxPoint x="-400" y="1785" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vQvVCXFudkej5gtyNIv1-7" value="Connect()" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.089;exitDx=0;exitDy=0;entryX=0;entryY=0.086;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="1" source="vQvVCXFudkej5gtyNIv1-1" target="vQvVCXFudkej5gtyNIv1-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-402" y="1639" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="vQvVCXFudkej5gtyNIv1-9" value="GET /ipfs/{cid}[/{path}][?{params}]" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vQvVCXFudkej5gtyNIv1-1" target="vQvVCXFudkej5gtyNIv1-2">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="vQvVCXFudkej5gtyNIv1-8" value="Success&amp;nbsp;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.024;entryY=0.153;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.153;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="vQvVCXFudkej5gtyNIv1-2" target="vQvVCXFudkej5gtyNIv1-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-290" y="1660" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="vQvVCXFudkej5gtyNIv1-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-600" y="1610" width="10" height="330" as="geometry" />
+        <mxCell id="vQvVCXFudkej5gtyNIv1-15" value="PUT /ipfs/{cid}[/{path}][?{params}]" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.012;entryY=0.819;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="vQvVCXFudkej5gtyNIv1-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-399" y="1880" as="sourcePoint" />
+            <mxPoint x="-400" y="1867.5" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="vQvVCXFudkej5gtyNIv1-8" value="Success&amp;nbsp;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="vQvVCXFudkej5gtyNIv1-2" target="vQvVCXFudkej5gtyNIv1-1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="vQvVCXFudkej5gtyNIv1-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-400" y="1610" width="10" height="330" as="geometry" />
-        </mxCell>
-        <mxCell id="vQvVCXFudkej5gtyNIv1-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-240" y="1610" width="10" height="330" as="geometry" />
-        </mxCell>
-        <mxCell id="vQvVCXFudkej5gtyNIv1-4" value="Front-end" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-560" y="1580" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="vQvVCXFudkej5gtyNIv1-5" value="IPFS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-425.37" y="1580" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="vQvVCXFudkej5gtyNIv1-6" value="Substrate Node" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-270" y="1580" width="60" height="30" as="geometry" />
+        <mxCell id="vQvVCXFudkej5gtyNIv1-17" value="store(cid)" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.102;entryY=0.882;entryDx=0;entryDy=0;entryPerimeter=0;exitX=-0.27;exitY=0.882;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="vQvVCXFudkej5gtyNIv1-2" target="vQvVCXFudkej5gtyNIv1-3">
+          <mxGeometry x="0.1952" relative="1" as="geometry">
+            <mxPoint x="-389" y="1890" as="sourcePoint" />
+            <mxPoint x="-189.87999999999988" y="1890.27" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
