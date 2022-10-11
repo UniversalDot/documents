@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-11T07:35:46.404Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="-SrFNbFHmhwC2BDx-FLE" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-11T09:42:44.540Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="VrLSveEAOYjX2S-TDWbo" version="20.4.0" type="github">
   <diagram id="v5FJ3D41eFAgbxFI6TYL" name="Page-1">
-    <mxGraphModel dx="3733" dy="977" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3198" dy="720" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -421,12 +421,6 @@
         </mxCell>
         <mxCell id="Cg-AYCd-kNj0vVRl1PEC-1" value="ML Engine" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1423.8600000000001" y="3180" width="566.9" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="Cg-AYCd-kNj0vVRl1PEC-3" value="Data Storage" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-570" y="2750" width="270" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="Cg-AYCd-kNj0vVRl1PEC-4" value="Pre" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-570" y="2865" width="270" height="85" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
