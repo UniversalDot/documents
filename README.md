@@ -8,11 +8,6 @@ The documentation is split in several sections:
 * Logo: Logo resources
 * Presentations: Public presentations for the project
 
-### Supported by Web3 Foundation 
-![Logo](https://github.com/UniversalDot/documents/blob/9d0a4c0c984bee503e13278f72049da7eae16c14/logo/web3grant/web3%20foundation_grants_badge_black.jpg)
-
-UniversalDot is recipient of the technical grant from Web3 Foundation. 
-
 
 ## Access
 
