@@ -7,7 +7,7 @@ The documentation is split in several sections:
 * Docs: Public documentation for the projects
 * Logo: Logo resources
 * Presentations: Public presentations for the project
-* uip: Universal Improvement proposals
+* uip: Universal Improvement proposals documentation
 
 
 ## Access
