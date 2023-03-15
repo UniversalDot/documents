@@ -14,7 +14,7 @@ The documentation is split in several sections:
 
 Draw.io diagrams can be accessed via: https://app.diagrams.net/?mode=github
 
-![Logo](https://github.com/UniversalDot/documents/blob/master/logo/rsz_jpg-02.jpg)
+![Logo](https://github.com/UniversalDot/documents/blob/master/logo/universaldot-logo/rsz_jpg-02.jpg)
 
 ## Maintainers
 
